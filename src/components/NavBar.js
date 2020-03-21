@@ -33,6 +33,11 @@ const NavBar = () => (
               Info
             </a>
           </li>
+          <li className="nav-item">
+            <a className="nav-link" href=" https://www.who.int/">
+              Dona
+            </a>
+          </li>
         </ul>
       </div>
     </nav>
